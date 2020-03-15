@@ -1,0 +1,11 @@
+* 3d Printed Parts
+* Custom PCB
+* Two (2) 3DS analog joystick assemblies
+* Two (2) Circle Pad Thumb sliders for the 3DS analogs
+* Two (2) 0.6mm x 5mm x 10mm 304 Stainless Steel Compression Springs
+* Two (2) 6mm x 6mm x 6mm tactile momentary pushbuttons
+* Two (2) ATTINY45V-10SHR
+* Four (4) 0805 Ceramic 10uf capacitors
+* Four (4) 0603 1k ohm resistors
+
+
